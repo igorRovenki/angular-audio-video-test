@@ -1,0 +1,12 @@
+.video-container {
+    color:#fff;
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    height: 180px !important;
+    z-index: 100;
+}
+.video-container video {
+    height: 100% !important;
+    background-color: #000;
+}
