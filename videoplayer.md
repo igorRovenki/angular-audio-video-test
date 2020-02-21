@@ -289,3 +289,7 @@ export class VideoPlayerService {
   }
 }
 ```
+
+Поздравляем! Вы реализовали сквозной видеоплеер на AngularJS!
+
+Весь работающий код Вы можете найти в репозитории [https://github.com/igorRovenki/angular-audio-video-test/](https://github.com/igorRovenki/angular-audio-video-test/)
